@@ -1,6 +1,6 @@
 micro:bit Blinking LED
 --------------------
-In this assignment you will connect an LED to the micro:bit with alligator clips. You will then write a program that blinks the first letter of your name in Morse code. You will submit the code and a short video of your program running. Here's a sample program that creates a long and a short blink.
+In this assignment you will connect an LED to the micro:bit with alligator clips. You will then write a program that blinks the first letter of your name in Morse code. You can find the codes for each letter on [Wikipedia's Morse Code page](https://en.wikipedia.org/wiki/Morse_code). Here's a sample program that creates a long and a short blink.
 ```python
 # Add your Python code here. E.g.
 from microbit import *
@@ -16,7 +16,7 @@ while True:
     sleep(500) 
 ```
 
-You may find slides 99 - 104 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment.
+You will submit the code and a short video of your program running. You may find slides 99 - 104 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment.
   
 Extensions
 ----------
