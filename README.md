@@ -7,7 +7,7 @@ In this assignment you will connect an LED to the micro:bit with alligator clips
 * The space between symbols (dots and dashes) of the same letter is 1 time unit
 * The space between letters is 3 time units
 * The space between words is 7 time units.
-*
+
 Here's a sample program that signals Morse Code for the letter "A".
 ```python
 # Add your Python code here. E.g.
