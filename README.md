@@ -24,7 +24,7 @@ while True:
     sleep(700)            #seven units
 ```
 
-If your first name starts with "A", use the first letter of your last name since the sample program use "A".
+If your first name starts with "A", use the first letter of your last name since the sample program uses "A".
 
 Submit the code and a short video of your program running. You may find slides 99 - 106 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment.
   
