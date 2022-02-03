@@ -36,3 +36,4 @@ Samples of Student Work
 ----------
 [Naomi](NaomiBlink.gif)   
 [Xander](XanderBlink.gif)   
+[Zachary](ZacharyBlink.gif)   
