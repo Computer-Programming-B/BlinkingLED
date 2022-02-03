@@ -34,6 +34,7 @@ You can add more blinks to your program to spell out a longer message.
 
 Samples of Student Work
 ----------
+[John](JohnBlink.gif)   
 [Naomi](NaomiBlink.gif)   
 [Xander](XanderBlink.gif)   
 [Zachary](ZacharyBlink.gif)   
